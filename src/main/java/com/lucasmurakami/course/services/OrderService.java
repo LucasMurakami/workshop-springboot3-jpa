@@ -1,7 +1,7 @@
 package com.lucasmurakami.course.services;
 
 import com.lucasmurakami.course.entities.Order;
-import com.lucasmurakami.course.respositories.OrderRepository;
+import com.lucasmurakami.course.repositories.OrderRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
